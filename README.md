@@ -6,7 +6,7 @@ LIRI (Language Interpretation and Recognition Interface), takes in user inputs t
 
 ### Instructions
 
-github.com/jbramble18/Liri-Node-App/git
+https://github.com/jbramble18/Liri-Node-App/git
 
 The user will search for data using one of four commands.
 
