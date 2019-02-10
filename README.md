@@ -1,10 +1,10 @@
+# Liri-Node-App
 
-
-# Overview
+## Overview
 
 LIRI (Language Interpretation and Recognition Interface), takes in user inputs to search for data from the Bands in Town API, Spotify API, and OMDB, and displays results in the command line using node.js.
 
-## Instructions
+### Instructions
 
 The user will search for data using one of four commands.
 
